@@ -1,0 +1,38 @@
+#card {
+	width: 310px;
+	background-color: black;
+	border: double 10px;
+	font-family: calibri;
+	color: white;
+	box-shadow: 1px 1px 10px #666;
+	}
+h3 {
+	text-align: center;
+}
+.fact {
+	font-style: italic;
+	}
+img {
+	display: block;
+	margin: 0 auto;
+	margin-bottom: 5px;
+	border-radius: 10%;
+	}
+ul {
+	list-style-type: none;
+	padding-left: 0;
+}
+.info {
+	width: 300px;
+	border: double 2px;
+	margin: auto;
+	margin-bottom: 5px;
+	border-radius: 10%;
+}
+span {
+	font-weight: bold;
+	margin:7px;
+}
+p {
+	margin: 7px;
+}
